@@ -4,6 +4,7 @@ if [[ -z "$contentArgument" ]]; then
   echo "Missing name file !";
   echo " ";
   echo "$0 -> (?)";
+  echo " ";
 else
   echo "Starting...";
   echo " ";
