@@ -1,3 +1,3 @@
 # Quick fortran compilation
 
-#### pomme
+###### This script compile your Fortran code easly.
