@@ -1,9 +1,10 @@
 #!/bin/bash
 contentArgument=$1;
+nameOfFile=$0;
 if [[ -z "$contentArgument" ]]; then
   echo "Missing name file !";
   echo " ";
-  echo "$0 -> (?)";
+  echo "$nameOfFile -> (?)";
   echo " ";
 else
   echo "Starting...";
