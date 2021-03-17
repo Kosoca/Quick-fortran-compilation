@@ -18,4 +18,5 @@ else
   echo "Starting of '$nameFileConverted'";
   echo " ";
   ./$nameFileConverted
+  echo " ";
 fi
